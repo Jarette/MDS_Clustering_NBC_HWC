@@ -13,6 +13,27 @@ Cave drip water response to surface meteorological conditions is complex due to 
 
 ### Description:
 
-In this project a MATLAB Script that was created by Dr Khasif Mahmud that was created to perform similar analysis on Golgotha Cave Australia in 2018. This 2018 script was then adapted and updated by Researcher Jarette Greene. This updated Script uses drip time series data collected from Natural Bridge Cavern, Texas, and Harrie Wood Cavern, Australia, and using multidimensional and the k-means algortithm to cluster the various drip time series. This clustering then allowed us to obtain a better understanding of water infiltration into these kasrt features and also gain a better understanding of the limestone enviroment(eg fracturing, pooling).
+In this project a MATLAB Script that was created by Dr Khasif Mahmud that was created to perform similar analysis on Golgotha Cave Australia in 2018. This 2018 script was then adapted and updated by Researcher Jarette Greene. This updated Script uses drip time series data collected from Natural Bridge Cavern, Texas, and Harrie Wood Cavern, Australia, and using multidimensional and the k-means algortithm to cluster the various drip time series. This clustering then allowed us to obtain a better understanding of water infiltration into these kasrt features and also gain a better understanding of the limestone enviroment (eg fracturing, pooling).
 
+### Running Script
+
+  - Change path to location where input data is being stored on users PC.
+      'addpath(%insert your own path here)'
+    
+  - Begin running code using standard matlab commands or run button
+      - user will then be propmted to pick which data they would like to be analyzed  (nbc - Natural Bridge Cavern, hwc - Harrie Wood Cave)
+      - the user will then be prompted to pick the number of clusters (2 - 4) then the sampling frequency they would like to use ( daily, weekly, monthly)
+   
+  - After entering responses for all prompts the script then begins to produce results in the form of a variety of graphs and xlsx files containing statistical data
+
+  ### NOTE:
+    - For the prompt this script the only error checking/ text normalization performed is to convert all inputs into lower case, if user entered missed spelled or responses not considered the script will error or produce incorrect results
+
+### Sample Results
+  - Example of output graphs:
+
+
+
+  
+  
 

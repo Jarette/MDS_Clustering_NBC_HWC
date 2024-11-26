@@ -27,7 +27,7 @@ In this project a MATLAB Script that was created by Dr Khasif Mahmud that was cr
   - After entering responses for all prompts the script then begins to produce results in the form of a variety of graphs and xlsx files containing statistical data
 
   ### NOTE:
-    - For the prompt this script the only error checking/ text normalization performed is to convert all inputs into lower case, if user entered missed spelled or responses not considered the script will error or produce incorrect results
+  - For the prompt this script the only error checking/ text normalization performed is to convert all inputs into lower case, if user entered missed spelled or responses not considered the script will error or produce incorrect results
 
 ### Sample Results
   - Example of output graphs:

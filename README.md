@@ -62,11 +62,3 @@ jarettegreene09@gmail.com
 ### Bio:
 [Link to Bio](https://kashifmahmud.wixsite.com/kashif-mahmud/jarette-greene)
 
-
-
-https://static.wixstatic.com/media/f14632_9e17a82d5cf84c42ac7825c9a9e123dd~mv2.jpg/v1/fill/w_348,h_488,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/f14632_9e17a82d5cf84c42ac7825c9a9e123dd~mv2.jpg
-
-
-  
-  
-

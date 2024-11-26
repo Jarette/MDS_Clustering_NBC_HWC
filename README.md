@@ -32,7 +32,7 @@ In this project a MATLAB Script that was created by Dr Khasif Mahmud that was cr
 ### Sample Results
   - Example of output graphs:
 
-
+<img src="[https://images2.imgbox.com/b3/d5/09sLKh1N_o.png](https://github.com/Jarette/MDS_Clustering_NBC_HWC/blob/main/images/Cluster%201.png)" width="200"> 
 
   
   

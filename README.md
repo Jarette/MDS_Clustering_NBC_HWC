@@ -44,6 +44,15 @@ In this project a MATLAB Script that was created by Dr Khasif Mahmud that was cr
 ###  Jarette Greene
 <img src="https://user-images.githubusercontent.com/111944626/186936341-5004ae15-9c21-4b9d-9a7d-d8aa302df928.jpeg" width="500">
 
+### Position:
+Research Assistant
+
+### Email: 
+jarettegreene09@gmail.com
+
+### Bio:
+[Link to Bio](https://kashifmahmud.wixsite.com/kashif-mahmud/jarette-greene)
+
 
 
 

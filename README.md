@@ -33,7 +33,19 @@ In this project a MATLAB Script that was created by Dr Khasif Mahmud that was cr
   - Example of output graphs:
 
 <img src="https://github.com/Jarette/MDS_Clustering_NBC_HWC/blob/main/images/Cluster%201.png" width="500">                       <img src="https://github.com/Jarette/MDS_Clustering_NBC_HWC/blob/main/images/Cluster%202.png" width="500"> 
-                                                                  <img src="https://github.com/Jarette/MDS_Clustering_NBC_HWC/blob/main/images/COV%20vs%20SAMP%20FREQ%20(Correclation%20Coeff).png" width="700"> 
+                                                                  <img src="https://github.com/Jarette/MDS_Clustering_NBC_HWC/blob/main/images/COV%20vs%20SAMP%20FREQ%20(Correclation%20Coeff).png" width="700">
+
+
+## Researchers: 
+
+###: Dr Khasif Mahmud
+
+
+###: Jarette Greene
+![image0 (4)](https://user-images.githubusercontent.com/111944626/186936341-5004ae15-9c21-4b9d-9a7d-d8aa302df928.jpeg)
+
+
+
 
 
 

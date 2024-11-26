@@ -39,7 +39,7 @@ In this project a MATLAB Script that was created by Dr Khasif Mahmud that was cr
 ## Researchers: 
 
 ###  Dr Khasif Mahmud
-<img src="(https://static.wixstatic.com/media/f14632_9e17a82d5cf84c42ac7825c9a9e123dd~mv2.jpg/v1/fill/w_348,h_488,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/f14632_9e17a82d5cf84c42ac7825c9a9e123dd~mv2.jpg)" width="500">
+<img src="https://static.wixstatic.com/media/f14632_9e17a82d5cf84c42ac7825c9a9e123dd~mv2.jpg/v1/fill/w_348,h_488,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/f14632_9e17a82d5cf84c42ac7825c9a9e123dd~mv2.jpg" width="500">
 
 ### Position:
 Mentor
@@ -48,6 +48,9 @@ Mentor
 [Link to Bio](https://kashifmahmud.wixsite.com/kashif-mahmud/about-me)
 
 
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+### Jarette Greene
 <img src="https://user-images.githubusercontent.com/111944626/186936341-5004ae15-9c21-4b9d-9a7d-d8aa302df928.jpeg" width="500">
 
 ### Position:

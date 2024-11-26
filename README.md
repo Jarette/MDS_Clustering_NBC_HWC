@@ -38,11 +38,11 @@ In this project a MATLAB Script that was created by Dr Khasif Mahmud that was cr
 
 ## Researchers: 
 
-###: Dr Khasif Mahmud
+###  Dr Khasif Mahmud
 
 
-###: Jarette Greene
-![image0 (4)](https://user-images.githubusercontent.com/111944626/186936341-5004ae15-9c21-4b9d-9a7d-d8aa302df928.jpeg)
+###  Jarette Greene
+<img src="https://user-images.githubusercontent.com/111944626/186936341-5004ae15-9c21-4b9d-9a7d-d8aa302df928.jpeg">
 
 
 

@@ -9,7 +9,6 @@ Cave drip water response to surface meteorological conditions is complex due to 
 | :---: | ---------------- | -------------------------------------------------- |
 |   1   | [Drip_analysis_NBC_HWC](https://github.com/Jarette/MDS_Clustering_NBC_HWC/blob/main/Drip_analysis_NBC_HWC.m) | Matlab script to perform cluster analysis.      |
 |   2   | [Data](https://github.com/Jarette/MDS_Clustering_NBC_HWC/tree/main/Data)  | Folder containing neccessary input files.       |
-|   3   | [HWC_Statistical_Data_15mins](https://github.com/Jarette/MDS_Clustering_NBC_HWC/blob/main/HWC_Statistical_Data_15mins.xlsx)| Statist |
 
 ### Description:
 

@@ -25,9 +25,6 @@ In this project, a MATLAB Script was created by Dr Kashif Mahmud to perform a si
    
   - After entering responses for all prompts the script then begins to produce results in the form of a variety of graphs and xlsx files containing statistical data.
 
-  ### NOTE:
-  - For the prompt in this script, the only error checking/text normalization performed is converting all inputs into lowercase. If the user were to misspell or enter responses outside those considered by the script, the script would error or produce incorrect results.
-
 ### Sample Results
   - Example of output graphs:
 
